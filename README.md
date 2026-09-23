@@ -1,4 +1,4 @@
-# pokeCatalog - Readme
+# PokeCatalog
 
 ## 📌 Visão Geral
 
